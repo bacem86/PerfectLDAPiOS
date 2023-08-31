@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PerfectLDAP",
+    name: "PerfectLDAPiOS",
     platforms: [
         .iOS(.v13),
     ],
